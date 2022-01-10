@@ -1,4 +1,3 @@
-# ordem_servico
 # Projeto de Ordem de Serviço
 
 Este é um projeto de gerenciamento de ordens de serviço desenvolvido com Python, Django, Django Ninja, Alpine.js, Docker, Docker Compose e PostgreSQL. O objetivo deste projeto é fornecer uma interface simples e eficiente para gerenciar ordens de serviço, permitindo a criação, edição e visualização de serviços.
@@ -27,6 +26,7 @@ Antes de começar, você precisará ter o seguinte instalado em sua máquina:
    ```bash
    git clone https://github.com/reginaldo-castro/ordem_servico.git
    cd ordem-de-servico
+<<<<<<< HEAD
 
 
    ├── backend
@@ -51,3 +51,5 @@ Antes de começar, você precisará ter o seguinte instalado em sua máquina:
 │       └── templates
 │           └── servico
 └── infra
+=======
+>>>>>>> 6462ecc4e7e1e36cbbfdead79beb4e32603239e5
