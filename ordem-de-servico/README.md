@@ -26,30 +26,3 @@ Antes de começar, você precisará ter o seguinte instalado em sua máquina:
    ```bash
    git clone https://github.com/reginaldo-castro/ordem_servico.git
    cd ordem-de-servico
-<<<<<<< HEAD
-
-
-   ├── backend
-│   ├── core
-│   │   ├── migrations
-│   │   │   └── __pycache__
-│   │   ├── __pycache__
-│   │   ├── static
-│   │   │   ├── css
-│   │   │   └── js
-│   │   │       └── servico
-│   │   └── templates
-│   ├── crm
-│   │   ├── migrations
-│   │   │   └── __pycache__
-│   │   └── __pycache__
-│   ├── __pycache__
-│   └── servico
-│       ├── migrations
-│       │   └── __pycache__
-│       ├── __pycache__
-│       └── templates
-│           └── servico
-└── infra
-=======
->>>>>>> 6462ecc4e7e1e36cbbfdead79beb4e32603239e5
