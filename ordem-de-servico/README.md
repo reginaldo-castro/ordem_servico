@@ -26,4 +26,6 @@ Antes de começar, você precisará ter o seguinte instalado em sua máquina:
    ```bash
    git clone https://github.com/reginaldo-castro/ordem_servico.git
    cd ordem-de-servico
-2. docker-compose up --build
+2. Crie as imagens e execute os contêineres:
+   ```bash
+   docker-compose up --build
