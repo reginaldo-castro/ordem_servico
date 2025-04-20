@@ -1,4 +1,3 @@
-# ordem_servico
 # Projeto de Ordem de Serviço
 
 Este é um projeto de gerenciamento de ordens de serviço desenvolvido com Python, Django, Django Ninja, Alpine.js, Docker, Docker Compose e PostgreSQL. O objetivo deste projeto é fornecer uma interface simples e eficiente para gerenciar ordens de serviço, permitindo a criação, edição e visualização de serviços.
